@@ -1,0 +1,34 @@
+{
+  "devMode": true,
+  "name": "Django",
+  "version": "0.1",
+  "author": "Fatih Arslan",
+  "authorNick": "arslan",
+  "repo": "git://github.com/farslan/Django-Kdapp.git",
+  "description": "Install and maintain Django instances",
+  "path": "~/Applications/Django.kdapp/",
+  "category": "web-app",
+  "source": {
+    "blocks": {
+      "app": {
+        "files": [
+          "./common.coffee",
+          "./functions.coffee",
+          "./dashboardpane.coffee",
+          "./installpane.coffee",
+          "./main.coffee"
+        ]
+      }
+    },
+    "stylesheets": [
+      "./resources/style.css"
+    ]
+  },
+  "options": {
+    "type": "tab"
+  },
+  "icns": {
+    "128": "./resources/django-icon-128.png",
+    "256": "./resources/django-icon-256.png"
+  }
+}
