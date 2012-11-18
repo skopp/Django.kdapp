@@ -4,7 +4,7 @@
   "version": "0.1",
   "author": "Fatih Arslan",
   "authorNick": "arslan",
-  "repo": "git://github.com/farslan/Django-Kdapp.git",
+  "repo": "git://github.com/farslan/Django.kdapp.git",
   "description": "Install and maintain Django instances",
   "path": "~/Applications/Django.kdapp/",
   "category": "web-app",
@@ -30,5 +30,9 @@
   "icns": {
     "128": "./resources/django-icon-128.png",
     "256": "./resources/django-icon-256.png"
-  }
+  },
+    "screenshots": [
+    "./resources/django-kdapp1.png",
+    "./resources/django-kdapp2.png"
+  ]
 }
