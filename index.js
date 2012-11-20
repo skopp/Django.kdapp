@@ -4,7 +4,7 @@
 
 /* KDAPP STARTS */
 
-/* BLOCK STARTS /Source: /Users/arslan/Applications/Django.kdapp/common.coffee */
+/* BLOCK STARTS /Source: /Users/user/Applications/Django.kdapp/common.coffee */
 
 var Pane, WpApp, WpSplit,
   __hasProp = {}.hasOwnProperty,
@@ -144,7 +144,7 @@ Pane = (function(_super) {
 
 
 
-/* BLOCK STARTS /Source: /Users/arslan/Applications/Django.kdapp/functions.coffee */
+/* BLOCK STARTS /Source: /Users/user/Applications/Django.kdapp/functions.coffee */
 
 var appStorage, checkPath, fc, installDjango, kc, nickname, parseOutput, tc;
 
